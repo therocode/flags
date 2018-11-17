@@ -1,7 +1,7 @@
 # flags
 A way to define flag types as a typesafe alternative to enums that includes flag operations and no arithmetic operations
 
-##Usage
+## Usage
 
 ```cpp
 //here we define a new flags type
